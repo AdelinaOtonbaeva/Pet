@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Pet</string>
+    <string name="let_love_change_your_world">Let love change your world</string>
+    <string name="todo">TODO</string>
+    <string name="join_this_incredible_community">Join this incredible community</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="location">Location</string>
+    <string name="bishkek_kyrgyzstan">Bishkek, Kyrgyzstan</string>
+    <string name="kira">Kira</string>
+    <string name="abissinion_cat">Abissinion cat</string>
+    <string name="_3_years_old">3 years old</string>
+    <string name="distance_3_km">Distance 3 km</string>
+    <string name="otonbaeva_adelina">Otonbaeva Adelina</string>
+    <string name="owner">Owner</string>
+    <string name="info">Info</string>
+    <string name="adoption">Adoption</string>
 </resources>

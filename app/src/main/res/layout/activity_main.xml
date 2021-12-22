@@ -20,33 +20,34 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="400dp"
+            android:contentDescription="@string/todo"
             app:srcCompat="@drawable/d7d675ffbb18fa7b3c94809f41b53134_removebg_preview_1" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Let love change your world"
+            android:layout_marginVertical="10dp"
+            android:text="@string/let_love_change_your_world"
             android:textColor="@color/white"
             android:textSize="36sp"
-            android:layout_marginVertical="10dp"
             android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginVertical="10dp"
-            android:text="Join this incredible community"
+            android:text="@string/join_this_incredible_community"
             android:textColor="@color/white"
             android:textSize="26sp" />
 
         <Button
+            android:id="@+id/signup"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@color/white"
-            android:id="@+id/signup"
-            android:padding="10dp"
             android:layout_marginVertical="10dp"
-            android:text="Sign up"
+            android:background="@color/white"
+            android:padding="10dp"
+            android:text="@string/sign_up"
             android:textColor="@color/black"
             android:textSize="26sp"
             android:textStyle="bold" />
