@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Pet">
         <activity
-            android:name=".MainActivity3"
+            android:name=".MAinPage"
             android:exported="true" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".SignUp"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Intro"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
